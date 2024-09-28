@@ -1,6 +1,5 @@
-
 {
     "load": [
-        "Combat Utility Script.LUA"
+        "CombatUtilityScript.lua"
     ]
 }
